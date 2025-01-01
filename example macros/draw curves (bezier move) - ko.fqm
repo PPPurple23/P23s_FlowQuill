@@ -1,0 +1,1 @@
+﻿[MSGBOX]  s0 a1 t((Bezier Move) 스크립트 예제)ㅤp(Bezier Move 기능의 간단한 예제입니다.				이 메시지가 닫히는 순간, 마우스로 곡선을 그릴 겁니다.)[MOUSE MOVE]  x960 y360 s100[BEZIER MOVE]  sx1110 sy540 ex1110 ey540 s100 c5 dU[BEZIER MOVE]  sx960 sy690 ex960 ey690 s100 c5 dD[BEZIER MOVE]  sx810 sy540 ex810 ey540 s100 c5 dD[BEZIER MOVE]  sx960 sy360 ex960 ey360 s100 c5 dU

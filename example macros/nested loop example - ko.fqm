@@ -1,0 +1,1 @@
+﻿[SEND]  다중(중첩) 루프의 간단한 사용 예제입니다.[SEND]  {Enter}[SEND]  메모장을 열고, 활성화한 상태에서 이 스크립트를 실행해보세요.[SEND]  {Enter}[SEND]  소문자 'd'는 루프의 '깊이'를 뜻합니다. (몇 중 루프인지)[SEND]  {Enter}[SEND]  {Enter}[SEND]  d0 [LOOP]  3[SEND]  d1 [LOOP]  2[SEND]  d2 }}[SEND]  {Enter 2}[SEND]  결과가 이 것과 같을 것입니다:{Enter}d0 d1 d2 d2 d1 d2 d2 d1 d2 d2 
