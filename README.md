@@ -7,7 +7,7 @@ DSL 인터프리터에 GUI를 결합한 자동화 스크립팅 툴입니다.
 ![v0.4 preview](preview.png)
 
 
-example macros 안에는 FlowQuill에 사용 가능한 예제들이 들어있습니다.
+[example macros](https://github.com/PPPurple23/P23s_FlowQuill/tree/main/example%20macros) 안에는 FlowQuill에 사용 가능한 예제들이 들어있습니다.
 
 확장자 자체는 fqm이지만, txt 파일처럼 열 수 있습니다. 
 
