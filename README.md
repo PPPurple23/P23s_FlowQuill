@@ -3,7 +3,7 @@ DSL 인터프리터에 GUI를 결합한 자동화 스크립팅 툴입니다.
 
 지루한 단순 반복 작업들을 자동화하는 간단한 스크립트를 제작/실행할 수 있습니다.
 
-일반 사용자시라면, 여기 [Release](https://github.com/PPPurple23/P23s_FlowQuill/releases)에서 Setup 파일 받으실 수 있습니다.
+일반 사용자시라면, 여기 [Release](https://github.com/PPPurple23/P23s_FlowQuill/releases)에서 Setup 파일을 받으실 수 있습니다.
 ![v0.4 preview](preview.png)
 
 
