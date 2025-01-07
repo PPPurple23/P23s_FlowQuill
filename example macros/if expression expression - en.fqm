@@ -1,0 +1,1 @@
+﻿[IF]  1ㅤ<ㅤ2[MSGBOX]  s0 a1 t(true or false)ㅤp(the result of 1 < 2 is %isvalid%.)}[IF]  1ㅤ>ㅤ2[MSGBOX]  s0 a1 t(Oh my god)ㅤp(How on earth did this message show up?\nI'm confused.)}
