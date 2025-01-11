@@ -1476,7 +1476,6 @@ Loop
 			cy=
 			isimage = error
 		}
-		ToolTip, %isimage%`nx: %tx%`ny: %ty%, %cx%, %cy%
 	}
 	else if (com = "MSGBOX")
 	{
