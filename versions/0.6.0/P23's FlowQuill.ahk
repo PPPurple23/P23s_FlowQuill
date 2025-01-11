@@ -1617,11 +1617,17 @@ MacroSave(target_name)
 		}
 		FileDelete, %A_ScriptDir%\macros\%target_name%.fqm
 		if (ErrorLevel = 1)
+		{
 			MsgBox, 4112, %appname% - Error, 기존 파일의 삭제에 실패했습니다.`n`n관리자 권한으로 실행했는지 확인해주세요.
+			return
+		}
 	}
 	FileAppend, , %A_ScriptDir%\macros\%target_name%.fqm, UTF-8
 	if (ErrorLevel = 1)
+	{
 		MsgBox, 4112, %appname% - Error, 매크로 파일의 저장에 실패했습니다.`n`n관리자 권한으로 실행했는지 확인해주세요.
+		return
+	}
 	Loop, % listvar.MaxIndex()
 	{
 		current_content := listvar[A_Index]
